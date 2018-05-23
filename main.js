@@ -1,0 +1,3 @@
+if(johnIsABitch){
+  kill(john)
+};
